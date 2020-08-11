@@ -1,6 +1,16 @@
 # Automated-Leave-Management-System
 An automated system which checks holidays requested by employees, against a set of constraints and automatically approves/rejects and suggests alternative dates.
 
+## Features
+- Employees are able to submit holiday requests through the website
+- They are also able to view list of previous holiday requests which also shows whether they were approved/rejected.
+- When a holiday request is made by the employee
+  - The system checks the profile of the employee and runs the holiday request against a set of constraint set by the system admin
+  - Automatically approves or rejects the request based on the constraint.
+  - Should a request get rejected, the employee is automatically informed of the reason on the spot.
+  - In addition, nearest available alternative holiday dates are suggested (automatically) which does not break constraints.
+- The application features a manager side, through which, the manager of the organization is able to monitor the system and view various reports.
+
 ### Running the website from source
 To run the development version of the application, you must have composer (https://getcomposer.org) installed. After this, ensure you are in the project directory and run:
 
