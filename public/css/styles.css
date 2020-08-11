@@ -1,0 +1,92 @@
+button
+{
+	background-color: #3071A9 !important;
+	color :white !important;
+}
+#btn
+{
+	background-color: #3071A9 !important;
+	color :white !important;
+}
+
+.btn
+{
+	background-color: #3071A9 !important;
+	color :white !important;
+}
+#alert
+{
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+hr 
+{
+	border: 0;
+	margin-left: 0;
+	margin-right: 0;
+	clear:both;
+	display:block;
+	width: 100%;               
+	height: 1px;
+	box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+
+footer
+{
+	background: #e6eaf2 !important;
+	padding-top:20px !important;
+	color: black !important;
+	clear: both;
+	position: relative;
+	margin-top: 140px;
+}
+
+thead
+{
+	background-color:#3071A9 !important;
+	color :white !important;
+}
+
+#browse_page_filter_div
+{
+	float: none !important;
+	margin: 0 auto !important;
+}
+
+
+#btn_browse_page_search
+{
+	background-color:#3071A9 !important;
+	color :white !important;
+	width:120px !important;
+	padding-left:5px !important;
+}
+
+#cmb_role
+{
+	width: 200px !important;
+}
+
+#cmb
+{
+	width: 200px !important;
+}
+
+
+#profile_textboxes
+{
+	width: 400px !important;
+}
+
+.badge-pill {
+	border-radius:2em !important;
+}
+
+.selectpicker {
+  font-weight: bold !important;
+  color: #fff !important;
+  background: #bc0000 !important;
+  text-transform: uppercase;
+}

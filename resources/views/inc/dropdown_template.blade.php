@@ -1,0 +1,1 @@
+<option value="{{$element->session_id}}" {{(old('session',$data['session']) == $element->session_id) ? 'selected' : ''}}>{{$element->session_name}}</option>
